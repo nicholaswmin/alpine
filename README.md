@@ -84,7 +84,7 @@ Let me know by [opening a new issue][new-gh-issue].
 [old-bomber-site]: https://web.archive.org/web/20120501220353/http://www.bomberonline.com/
 [alpine-snowboarding]: https://en.wikipedia.org/wiki/Snowboarding#Alpine_snowboarding
 [alpine-snowboarder]: http://alpinesnowboarder.com/
-[new-gh-issue]: https://github.com/nicholaswmin/alpine-carviueng/issues/new
+[new-gh-issue]: https://github.com/nicholaswmin/alpine-carving/issues/new
 [carved-turn]: https://en.wikipedia.org/wiki/Carved_turn
 [snowboard-racing]: https://www.redbull.com/us-en/snowboard-alpine-racing
 [sbx]: https://en.wikipedia.org/wiki/Snowboard_cross
