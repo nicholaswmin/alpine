@@ -5,7 +5,7 @@ Written in the 90's, during the peak of
 [*Alpine Snowboarding*][alpine-snowboarding][^1] and it's subtypes:  
 *Freecarving*[^2] & [*Alpine Snowboard Racing*][snowboard-racing][^3].
 
-The techniques *transfer fully* to softboot **Snowboarding**[^4].
+The techniques *transfer fully* to *Softboot Snowboarding*[^4].
 
 ---
 
@@ -22,6 +22,16 @@ Date Unknown
 ### [Who is the "alpine rider?" - Part II][alpine-rider-2]
 
 By Cordon Baesel  
+Date Unknown
+
+### [So You Want To Try Alpine Snowboarding?][try-alpine]
+
+By Jack Michaud  
+Date Unknown
+
+### [Can You Start Snowboarding in Hardboots From Day One?][day-one-hardboots]
+
+By Jack Michaud  
 Date Unknown
 
 ### [The Norm, Part I][norm-part-1]
@@ -154,6 +164,8 @@ Let me know by [opening a new issue][new-gh-issue].
 [sbx]: https://en.wikipedia.org/wiki/Snowboard_cross
 [alpine-snowboarder_tech-articles]: http://alpinesnowboarder.com/tech-articles/
 [bomber-online_tech-articles]: https://www.bomberonline.com/Manuals-Tech-Articles-and-Help_ep_82-1.html
+[try-alpine]: articles/try-alpine/article.md
+[day-one-hardboots]: articles/day-one-hardboots/article.md
 [norm-part-1]: articles/norm-part-1/article.md
 [norm-part-2]: articles/norm-part-2/article.md
 [carving-drills]: articles/carving-drills/article.md
