@@ -149,9 +149,10 @@ Let me know by [opening a new issue][new-gh-issue].
       **Parallel Slalom(PSL)** and **Parallel Giant Slalom(PGS)**.  
       Still only performed on *Alpine Snowboard* gear & techniques.
 
-[^4]: The usual snowboarding everyone knows; riding in soft boots and
-      strap bindings, commonly called just *"Snowboarding"*.  
-      Only called *"Softboot Snowboarding"* when comparing it to
+[^4]: **Softboot Snowboarding**, aka just Snowboarding.  
+      Just the usual snowboarding everyone knows;
+      riding in soft boots and strap bindings.    
+      It's only called "Softboot Snowboarding" when comparing it to
       *Alpine Snowboarding* which uses hardboots and plate bindings.
 
 [gh-page]: https://nicholaswmin.github.io/alpine-carving/
