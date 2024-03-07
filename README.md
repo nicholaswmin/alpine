@@ -7,53 +7,117 @@ Written in the 90's, during the peak of
 
 The techniques *transfer fully* to softboot **Snowboarding**[^4].
 
-## Main Articles
+---
 
-#### [Craving The Carve][craving-the-carve]
+### [Craving The Carve][craving-the-carve]
 
-#### [Who is the "alpine rider?", Part I][alpine-rider-1]
+By Jack Michaud  
+December 1996
 
-#### [Who is the "alpine rider?" - Part II][alpine-rider-2]
+### [Who is the "alpine rider?", Part I][alpine-rider-1]
 
-#### [The Norm, Part I][norm-part-1]
+By Cordon Baesel  
+Date Unknown
 
-#### [The Norm, Part II][norm-part-2]
+### [Who is the "alpine rider?" - Part II][alpine-rider-2]
 
-#### [The Toeside Problem][toeside-problem]
+By Cordon Baesel  
+Date Unknown
 
-#### [Separate Zee Knees][separate-knees]
+### [The Norm, Part I][norm-part-1]
 
-#### [Your Butt And Where It Should Not Be][butt-position]
+By Jack Michaud  
+Date Unknown
 
-#### [Regulating Edge Angle][regulating-edge-angle]
+### [The Norm, Part II][norm-part-2]
 
-#### [Inclination vs. Angulation][inclination-angulation]
+By Jack Michaud  
+Date Unknown
 
-#### [Toe Side, Stance, and Chatter][toeside-stance-chatter]
+### [The Toeside Problem][toeside-problem]
 
-#### [Cross-over, Cross-under, Cross through][cross-over-under-through]
+By Jack Michaud  
+Date Unknown
 
-#### ["Euro-Carves" - Another Look][eurocarves-look]
+### [Separate Zee Knees][separate-knees]
 
-#### [Carving The Steeps][carving-steeps]
+By Jack Michaud, with contributions from Jim Callen  
+Date Unknown
 
-#### [Carving Practice Drills][carving-drills]
+### [Your Butt And Where It Should Not Be][butt-position]
 
-#### [Carving - Ranges of Movement][ranges-of-movement]
+By Dan Bogardus  
+Date Unknown
 
-#### [Physics of a Snowboard Carve][carving-physics]
+### [Inclination vs. Angulation][inclination-angulation]
 
-#### [Snowboarding Equipment: Soft, Medium, or Hard?][snowboard-stiffness]
+By Dan Bogardus  
+Date Unknown
 
-#### [The Rise and Fall of the Holy Asymmetric Empire][assymetric-empire]
+### [Regulating Edge Angle][regulating-edge-angle]
+
+By Sean MacCaron  
+Date Unknown
+
+### [Toe Side, Stance, and Chatter][toeside-stance-chatter]
+
+By Sean MacCaron  
+Date Unknown
+
+### [Cross-over, Cross-under, Cross through][cross-over-under-through]
+
+By Jack Michaud  
+March 2002
+
+### ["Euro-Carves" - Another Look][eurocarves-look]
+
+By Doug Taylor   
+Date Unknown
+
+### [Carving The Steeps][carving-steeps]
+
+By Doug Taylor  
+Date Unknown
+
+### [Carving Practice Drills][carving-drills]
+
+By Jack Michaud  
+Date Unknown
+
+### [Carving - Ranges of Movement][ranges-of-movement]
+
+By Thomas Palka  
+April 2007
+
+### [Physics of a Snowboard Carve][carving-physics]
+
+By Jack Michaud and Iain Duncumb  
+Date Unknown
+
+### [Snowboarding Equipment: Soft, Medium, or Hard?][snowboard-stiffness]
+
+By Jack Michaud  
+Sometime in 1999
+
+### [The Rise and Fall of the Holy Asymmetric Empire][assymetric-empire]
+
+By Jack Michaud  
+December 1996
 
 ## Additional Articles
 
-These articles mostly concern Alpine Snowboarding Equipment.
+The following articles are mostly concerned with Alpine Snowboarding Equipment
+instead of carving technique.
 
 #### [How to Buy an Alpine Snowboard][alpine-snowboard-guide]
 
+By Jack Michaud  
+Date Unknown
+
 #### [Canting and Lift][canting-and-lift]
+
+By Jack Michaud  
+Date Unknown
 
 ## Something Missing?
 
