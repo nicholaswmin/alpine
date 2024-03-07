@@ -1,0 +1,7 @@
+# Regulating Edge Angle
+
+By Sean MacCaron
+
+One of the most common errors that can be inadvertently made when carving on a board is that we end up with too great of an edge angle, in particular on a heel side turn. There are lots of different factors that can contribute to this error, whether it be too much leaning into the turn, in some cases lack of speed ( in relation to the turn, ) snow conditions, the size of our feet in relation to the width of our board (overhang ) and of course, the pitch of the slope. The list is endless.
+
+Regardless of this, one of the more simple exercises that we can do to adjust and gauge the amount of edge required is to grab the toe edge of the board , between the feet, whilst in a heel side carve. This drill is designed for the intermediate upwards so therefore can be tried at several different speeds. The choice of slope is also to be taken into account relative to your own ability level. The end result is a feeling of a cleaner smoother carve that is comfortable and balanced. Looking in the direction of travel is also recommended. Once this exercise has been practiced a few times it's time to take the hand off the board and try an feel the same effect by being conscious of the shoulders in keeping them level with the slope. Feeling through the ankles is something to try as yet another accessory to regulate the amount of edge required. Now go Carve those heel side turns!

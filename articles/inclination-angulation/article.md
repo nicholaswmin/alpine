@@ -1,0 +1,11 @@
+# Inclination vs. Angulation
+
+By Dan Bogardus
+
+Inclination and angulation are terms that refer to angles involved with snowboarding (and many other sports). Inclination refers to the angle between the vertical axis of the body and the snow. When we lean or bank into a turn, we call this inclination. Angulation, on the other hand, refers to the joint angles created within the body. Ankles, knees, and hips all contribute to angulation. Inclination and angulation combined allow us to effectively pressure the edge of the board, and maintain that pressure throughout the turn. If any of the angles is out of whack, it causes the rider to compensate with the others to maintain balance.
+
+For example, many alpine riders (especially freecarvers) reach for the snow to drag their hand. After all, it's fun to get that close to the snow during a turn. However, in order to accomplish this, a lot of riders bend at the waist (angulate) out of proportion to the other joint angles, causing what is commonly known as "breaking at the waist". This premature reaching and subsequent breaking at the waist causes much of your weight to move inside the turn away from the edge, and limits the amount of edge angle that can be achieved. With lower edge angle and center of mass not over the edge, the rider cannot effectively pressure the edge, causing slippage. In fact, most race coaches teach their racers to keep their hands off the snow, as this improves balance and limits the bending.
+
+To prevent this from happening to you, think of your body as a coil spring. As you compress or extend, try to keep all the angles in proportion. Your head should be in a straight line above your toes (that line is compared to the snow surface to measure inclination). By maintaining proportional angulation, you will not have to compensate for a maligned joint, which will enable you to inclinate more efficiently, as well as maintain high edge pressure and angle. Once you can inclinate sufficiently, the snow will come to you, and you can touch that hand all stylie, without reaching or breaking at the waist.
+
+Anyone can bend over and reach the snow with minimal inclination (remember the "hand drag stop"?), but that looks lame. What looks cool is when you can put your hand down without even trying, which means you are super inclinated.
