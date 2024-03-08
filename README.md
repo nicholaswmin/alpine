@@ -137,8 +137,8 @@ Let me know by [opening a new issue][new-gh-issue].
 ## Footnotes
 
 [^1]: **Alpine Snowboarding** is a specific type of snowboarding performed in
-      hardshell ski-like boots & plate bindings; focusing on high-performance
-      technical carving.  
+      hardshell ski-like boots & plate bindings.   
+      It focuses on high-performance technical carving.  
 
 [^2]: **Freecarving** is a carving style that converts potential energy to
       *g-force*.  
