@@ -129,6 +129,11 @@ By Jack Michaud
 By Jack Michaud  
 *Date Unknown*
 
+## Something Missing?
+
+Think somethings missing or amiss?  
+Let me know by [opening a new issue][new-gh-issue].
+
 ## Footnotes
 
 [^1]: **Alpine Snowboarding** is a specific type of snowboarding performed in
@@ -149,12 +154,6 @@ By Jack Michaud
       using soft boots and strap bindings.  
       Only called *"Softboot Snowboarding"* when comparing it to
       *Alpine Snowboarding* which uses hardboots and plate bindings.
-
-## Something Missing?
-
-Think somethings missing or amiss?  
-Let me know by [opening a new issue][new-gh-issue].
-
 
 [gh-page]: https://nicholaswmin.github.io/alpine-carving/
 [old-bomber-site]: https://web.archive.org/web/20120501220353/http://www.bomberonline.com/
