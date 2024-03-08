@@ -146,7 +146,7 @@ By Jack Michaud
 
 [^4]: **Softboot Snowboarding**, also known as just **Snowboarding**.  
       It's the usual snowboarding everyone knows,
-      using soft boots and strap bindings.
+      using soft boots and strap bindings.  
       Only called *"Softboot Snowboarding"* when comparing it to
       *Alpine Snowboarding* which uses hardboots and plate bindings.
 
