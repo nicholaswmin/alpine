@@ -124,12 +124,12 @@ rather than carving technique.
 By Jack Michaud  
 *Date Unknown*
 
-### [Canting and Lift][canting-and-lift]
+### [How to Setup Your Plate Bindings][setup-plate-bindings]
 
 By Jack Michaud  
 *Date Unknown*
 
-### [How to Setup Your Plate Bindings][setup-plate-bindings]
+### [Canting and Lift][canting-and-lift]
 
 By Jack Michaud  
 *Date Unknown*
