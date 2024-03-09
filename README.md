@@ -107,7 +107,7 @@ By Jack Michaud and Iain Duncumb
 ### [Snowboarding Equipment: Soft, Medium, or Hard?][snowboard-stiffness]
 
 By Jack Michaud  
-*~ 1999*
+*~1999*
 
 ### [The Rise and Fall of the Holy Asymmetric Empire][assymetric-empire]
 
