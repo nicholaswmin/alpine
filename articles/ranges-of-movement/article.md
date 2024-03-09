@@ -94,7 +94,7 @@ None of the exercises above are new and they all are in the aforementioned Bombe
 
 Note that I'm still practicing -- probably will for the rest of my life -- but I took a selection from various movies that show some of the skills I was working on. Don't expect the movie to be perfect -- but hopefully it'll illustrate what I'm trying to do!
 
-Find the video here: https://web.archive.org/web/20120502060200/http://bomberonline.com/resources/Techarticles/carving_ranges_of_movement.html
+[Click here to view video](https://www.youtube.com/watch?v=yUsKsFufXUQ)
 
 ## Conclusion
 
