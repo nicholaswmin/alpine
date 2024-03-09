@@ -2,7 +2,7 @@
 
 By Jack Michaud
 
-> Article is missing its 4 images which I could not find
+> Article is missing 4 images that were not loading in the original article
 
 **Yes.** Many people, sometimes even some resort professionals, will tell you this shouldn't or can't be done, but this only reveals that they don't know very much about riding in hardboots. Yes, there is something about hardboots that makes them look like they're harder to use, but the reality is that they're just different. In my personal experience, during my four years of instructing snowboarding professionally, I had several cross-over skiers start from scratch in hardboots. Not one of them had a more difficult time learning, and actually most of them had an easier time than their softbooter counterparts. They spent far less time on their butts in the snow, and appeared to spend less energy overall during the lesson. In fact, given the mediocre performance of the rental softboot gear, I was routinely amazed that anybody learned anything using it.
 
