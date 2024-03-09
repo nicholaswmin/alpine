@@ -26,4 +26,4 @@ This periodic column is for riders that go for it where they find it, and match 
 
 ---Cordon Baesel
 
-[Part 2](/alpine-carving/articles/alpine-rider-2/article.md)
+[Part 2](/alpine-carving/articles/alpine-rider-2/article.html)
