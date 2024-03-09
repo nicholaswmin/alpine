@@ -2,6 +2,8 @@
 
 By Jack Michaud, with contributions from Jim Callen
 
+March 1997
+
 ![snowboarder carving on toeside edge](assets/1.png)
 
 Photos courtesy of Chris Chabot

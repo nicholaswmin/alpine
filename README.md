@@ -52,7 +52,7 @@ By Jack Michaud
 ### [Separate Zee Knees][separate-knees]
 
 By Jack Michaud, with contributions from Jim Callen  
-*Date Unknown*
+*March 1997*
 
 ### [Your Butt And Where It Should Not Be][butt-position]
 
@@ -119,12 +119,17 @@ By Jack Michaud
 The following articles primarily concern Alpine Snowboarding equipment
 rather than carving technique.
 
-#### [How to Buy an Alpine Snowboard][alpine-snowboard-guide]
+### [How to Buy an Alpine Snowboard][alpine-snowboard-guide]
 
 By Jack Michaud  
 *Date Unknown*
 
-#### [Canting and Lift][canting-and-lift]
+### [Canting and Lift][canting-and-lift]
+
+By Jack Michaud  
+*Date Unknown*
+
+### [How to Setup Your Plate Bindings][setup-plate-bindings]
 
 By Jack Michaud  
 *Date Unknown*
@@ -188,3 +193,4 @@ Let me know by [opening a new issue][new-gh-issue].
 [ranges-of-movement]: articles/ranges-of-movement/article.md
 [regulating-edge-angle]: articles/regulating-edge-angle/article.md
 [snowboard-stiffness]: articles/snowboard-stiffness/article.md
+[setup-plate-bindings]: articles/setup-plate-bindings/article.md

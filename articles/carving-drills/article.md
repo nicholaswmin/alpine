@@ -6,14 +6,14 @@ This was a popular thread in the forum. Below are some practice drills to help
 you hone your carving skills. Note that these are not methods of normal every-day
 riding, but special challenges to isolate particular aspects of carving.
 
-### The Norm
+### [The Norm](/articles/norm-part-1/article.md)
 
 **Grade**: Green
 
 If you've new to this whole carving thing, start here. The norm is a
 skill to help you feel the edge and sidecut working to execute a clean carve for
 
-### The Norm Part II
+### [The Norm Part II](/articles/norm-part-2/article.md)
 
 **Grade**: Green, Blue
 
@@ -115,7 +115,7 @@ for changing edges. Lowell Hart adds: This requires a rider to apply knee and
 ankle angulation to engage and release the downhill edge, and to make larger hip
 angulation/inclination moves when cutting a hard turn at the trail's edge.
 
-**Cross-under** turns are described in this article. The picture ~~to
+**Cross-under** turns are described in [this article](/articles/cross-over-under-through/article.md). The picture ~~to
 the left~~ below shows a nice sequence of a cross-through turn, which
 blends cross-over and cross-under techniques. The rider is low
 in the carve, then rises up only enough to bring the knees up

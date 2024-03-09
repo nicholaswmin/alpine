@@ -6,7 +6,7 @@ April 2007
 
 Feel like you hit a wall with carving? Carving in the "park and ride" style, where you get nice deep and fast carves, stand up in the transitions, then lower your body into the next turn? Still thinking about where you put your hands, wonder about counter-rotating, bending too much here or there? Hopefully this article will give you some ideas on things to try to improve your riding.
 
-Those were the problems that I struggled with, and thanks to Lowell Hart, Joerg Egli, and the helpful folks on the BomberOnline forums, I feel that I improved my riding tremendously. I'd like to share some of the lessons I learned, in the hope that someone may find some of them useful.
+Those were the problems that I struggled with, and thanks to Lowell Hart, Joerg Egli, and the helpful folks on the [BomberOnline forums](https://web.archive.org/web/20120502060200/http://www.bomberonline.com/VBulletin/index.php), I feel that I improved my riding tremendously. I'd like to share some of the lessons I learned, in the hope that someone may find some of them useful.
 
 **DISCLAIMER**: I am not an instructor nor do I play one on TV. There are many ways to carve and to have fun on a carving board -- here are some ideas and techniques that increased MY OWN confidence and fun.
 
@@ -59,7 +59,7 @@ It is important to rotate the hips into the turns -- the main effect of rotating
 ## Exercises
 
 These are a few of the exercises that I found useful.
-Find more at the ~~Bomber: Carving Practice Drills~~.
+Find more at the [Bomber: Carving Practice Drills](/articles/carving-drills/article.md).
 
 - Ankles 1: Ride with stiff knees, stiff hips, and move only the ankles. Practice cross-under turns by riding straight on a fairly flat hill, putting all your weight on both toes and lifting the heels, then moving your weight to the heels and lifting the toes. Correctly executed, this will cause the board to ride in a straight line alternating edges.
 
@@ -69,7 +69,7 @@ Find more at the ~~Bomber: Carving Practice Drills~~.
 
 - Balance 2: Switch! I started riding backwards primarily to improve my riding-forward balance, to know that I really am centered. Very tentative at first, I discovered that I got a lot more control over the board by riding this way.
 
-- Rotation: Try rotating into the turns, driving with your body and having the board be always a quarter-turn behind. I.e. when you finish a turn, the body should already be turned into the turn. When the outside shoulder crosses the board edge you should feel that the board is getting on edge automatically. Keep rotating until you're just past the middle of the turn. At that point start rotating back, already thinking about the matching next turn. It takes timing, but it can make carving quite effortless and very fluid. Rotation is a big element of the ~~Pureboarding~~ style.
+- Rotation: Try rotating into the turns, driving with your body and having the board be always a quarter-turn behind. I.e. when you finish a turn, the body should already be turned into the turn. When the outside shoulder crosses the board edge you should feel that the board is getting on edge automatically. Keep rotating until you're just past the middle of the turn. At that point start rotating back, already thinking about the matching next turn. It takes timing, but it can make carving quite effortless and very fluid. Rotation is a big element of the [Pureboarding](https://www.pureboarding.com/en/) style.
 
 - Extension/retraction (European: push/pull): As you transition between turns, do not stand up. On the contrary, get lower than your middle position. As you enter the turn start extending your body (it will feel like standing up), which will result in more pressure on the board. Just as you get to the apex of the turn, release that pressure smoothly so that at the end of the turn you're as high as you were when you started. With right timing it allows the rider to selectively decamber the board in a turn and to change the radius of the turn. This technique is an important part of the Extreme Carving style.
 
@@ -88,7 +88,7 @@ None of the exercises above are new and they all are in the aforementioned Bombe
 - Execute two quick edge changes with just your ankles in between carved turns. I.e. big turn, then flip the edge AS IF turning but in fact keep going straight, then flip the edge again still going straight, and only then initiate the next turn. Called "garlands" or "triple turns".
 - Combine any exercises with terrain: execute air-borne edge transitions off bumps, experimenting with up/down range of motion, etc
 - Ride switch, with hands behind the back, using only the ankles to execute cross-under turns.
-- Read the ~~Bomber: Carving Practice Drills~~ for more drills and ideas.
+- Read the [Bomber: Carving Practice Drills](/articles/carving-drills/article.md) for more drills and ideas.
 
 ## Companion video
 

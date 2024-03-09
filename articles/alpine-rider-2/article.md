@@ -36,3 +36,5 @@ But what about crappy conditions? Its hard to carve trenches on ice, but when yo
 Likewise, slush can be a problem since the snow won't support your carves like hard packed groom. Stay on top of the conditions. Scan down the line and plan your carves where the snow looks firmer (e.g., in the shadows, under banks and tress, etc.) Watch out for the edges of the groom; they can easily give way when its soft or slushy. Meaning you get pitched into trees or rock, an even more unforgiving medium than ice.
 
 Like surfing critical waves, good carving sessions demand attention to details and constant assessment of conditions. Finding the best spots and times for carving can help almost as much as mastering the technical aspects of alpine riding. Subtle set-up adjustments also can work wonders for different conditions. (Look for an in-depth discussion of tuning and set-ups for carving in an upcoming "Alpine Rider.")
+
+---Cordon Baesel

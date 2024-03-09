@@ -25,3 +25,5 @@ So the alpine rider is really about desire and commitment. If you really want it
 This periodic column is for riders that go for it where they find it, and match their desire with their commitment. Over the next few months, this small node of cyberworld will be a resource for any of you who are committed to the edge. Your feedback, flack, and smack are welcome. Commit to it and post a few thoughts. Consider what's written about riding approaches, equipment, and terrain choices as fair game. There are so many variables to alpine riding with no right or wrong; let's hear what you think.
 
 ---Cordon Baesel
+
+[Part 2](/articles/alpine-rider-2/article.md)
