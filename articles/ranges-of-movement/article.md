@@ -59,7 +59,7 @@ It is important to rotate the hips into the turns -- the main effect of rotating
 ## Exercises
 
 These are a few of the exercises that I found useful.
-Find more at the [Bomber: Carving Practice Drills](/articles/carving-drills/article.md).
+Find more at the [Bomber: Carving Practice Drills](/alpine-carving/articles/carving-drills/article.md).
 
 - Ankles 1: Ride with stiff knees, stiff hips, and move only the ankles. Practice cross-under turns by riding straight on a fairly flat hill, putting all your weight on both toes and lifting the heels, then moving your weight to the heels and lifting the toes. Correctly executed, this will cause the board to ride in a straight line alternating edges.
 
@@ -88,7 +88,7 @@ None of the exercises above are new and they all are in the aforementioned Bombe
 - Execute two quick edge changes with just your ankles in between carved turns. I.e. big turn, then flip the edge AS IF turning but in fact keep going straight, then flip the edge again still going straight, and only then initiate the next turn. Called "garlands" or "triple turns".
 - Combine any exercises with terrain: execute air-borne edge transitions off bumps, experimenting with up/down range of motion, etc
 - Ride switch, with hands behind the back, using only the ankles to execute cross-under turns.
-- Read the [Bomber: Carving Practice Drills](/articles/carving-drills/article.md) for more drills and ideas.
+- Read the [Bomber: Carving Practice Drills](/alpine-carving/articles/carving-drills/article.md) for more drills and ideas.
 
 ## Companion video
 
