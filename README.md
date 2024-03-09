@@ -14,12 +14,12 @@ The techniques transfer fully to *Softboot Snowboarding*.[^4]
 By Jack Michaud  
 *December 1996*
 
-### [Who is the "alpine rider?", Part I][alpine-rider-1]
+### [Who is the "alpine rider?" - Part 1][alpine-rider-1]
 
 By Cordon Baesel  
 *Date Unknown*
 
-### [Who is the "alpine rider?" - Part II][alpine-rider-2]
+### [Who is the "alpine rider?" - Part 2][alpine-rider-2]
 
 By Cordon Baesel  
 *Date Unknown*
