@@ -1,5 +1,7 @@
-The lost carving technique articles from defunct
+The carving technique articles from defunct
 [Bomber Online][old-bomber-site], rewritten to be mobile friendly.
+
+Some of the articles can be found at: [Alpine Snowboarder: Tech Articles][asb]
 
 Written in the 90's, during the peak of
 [*Alpine Snowboarding*][alpine-snowboarding][^1] and it's subtypes:  
@@ -164,6 +166,7 @@ Let me know by [opening a new issue][new-gh-issue].
 [old-bomber-site]: https://web.archive.org/web/20120501220353/http://www.bomberonline.com/
 [alpine-snowboarding]: https://en.wikipedia.org/wiki/Snowboarding#Alpine_snowboarding
 [alpine-snowboarder]: http://alpinesnowboarder.com/
+[asb:ta]:  http://alpinesnowboarder.com/tech-articles
 [new-gh-issue]: https://github.com/nicholaswmin/alpine-carving/issues/new
 [carved-turn]: https://en.wikipedia.org/wiki/Carved_turn
 [snowboard-racing]: https://www.redbull.com/us-en/snowboard-alpine-racing
