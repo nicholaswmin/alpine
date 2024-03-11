@@ -1,7 +1,8 @@
 The carving technique articles from defunct
 [Bomber Online][old-bomber-site], rewritten to be mobile friendly.
 
-Some of the articles can be found at: [Alpine Snowboarder: Tech Articles][asb]
+Some of the articles can be found at:
+[Alpine Snowboarder: Tech Articles][asb:ta]
 
 Written in the 90's, during the peak of
 [*Alpine Snowboarding*][alpine-snowboarding][^1] and it's subtypes:  
