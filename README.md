@@ -142,6 +142,12 @@ By Jack Michaud
 Think somethings missing or amiss?  
 Let me know by [opening a new issue][new-gh-issue].
 
+## Authors 
+
+@nicholaswmin - author of this... whatever this is; not the articles :)
+
+The articles were posted with the written permission of Jack Michaud
+
 ## Footnotes
 
 [^1]: **Alpine Snowboarding** is a specific type of snowboarding performed in
