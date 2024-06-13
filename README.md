@@ -144,9 +144,14 @@ Let me know by [opening a new issue][new-gh-issue].
 
 ## Authors 
 
-@nicholaswmin - author of this... whatever this is; not the articles :)
+Nicholas Kyriakides, [@nicholaswmin][wmin] - author of this... whatever this is; not the articles :)
 
-The articles were posted with the written permission of Jack Michaud
+The articles were posted with the written permission of Jack Michaud.  
+
+There is clear attribution to the authors - as much as humanly possible, 
+remember these articles were written in the 90s - 
+in the articles themselves and under each title in the index. 
+
 
 ## Footnotes
 
@@ -204,3 +209,6 @@ The articles were posted with the written permission of Jack Michaud
 [regulating-edge-angle]: articles/regulating-edge-angle/article.md
 [snowboard-stiffness]: articles/snowboard-stiffness/article.md
 [setup-plate-bindings]: articles/setup-plate-bindings/article.md
+
+
+[wmin]: https://github.com/nicholaswmin
