@@ -144,12 +144,10 @@ Let me know by [opening a new issue][new-gh-issue].
 
 ## Authors 
 
-Nicholas Kyriakides, [@nicholaswmin][wmin] - author of this... whatever this is; not the articles :)
-
 The articles were posted with the written permission of Jack Michaud.  
 
 There is clear attribution to the authors - as much as humanly possible, 
-remember these articles were written in the 90s - 
+since these articles were written in the 90s - 
 in the articles themselves and under each title in the index. 
 
 
