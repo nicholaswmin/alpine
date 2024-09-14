@@ -10,6 +10,9 @@ Written in the 90's, during the peak of
 
 The techniques transfer fully to *Softboot Snowboarding*.[^4]
 
+Posted with the written permission of Jack Michaud.
+
+
 ---
 
 ### [Craving The Carve][craving-the-carve]
